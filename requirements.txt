@@ -1,9 +1,7 @@
-Flask
+streamlit
 tensorflow
 numpy
 pandas
 pillow
-opencv-python
-scikit-learn
+plotly
 gunicorn
-matplotlib
